@@ -1,7 +1,12 @@
 # Crypto Price Viewer App
 
 This MATLAB app allows users to view cryptocurrency prices from a specified URI. Users can input a URI to fetch data, visualize it, and export the resulting plots. 
-This is the endpoint used: [https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=30](https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=30)
+
+
+## Endpoint 
+[https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=30](https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=30)
+
+
 
 ## Features
 
